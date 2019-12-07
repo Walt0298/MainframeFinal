@@ -39,4 +39,6 @@
 
 ## Implementación
 
+1. [Caso de Estudio: Desercion Estudiantil] ()
+
 3. [Caso de Estudio: Mesa Redonda](mesa_redonda/mesa_redonda.md)
