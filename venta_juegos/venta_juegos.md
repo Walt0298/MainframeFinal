@@ -9,12 +9,12 @@ En el dataset adjunto al caso de estudio contiene más de 16.000 juegos de conso
 
 #### Genero del juego vs Total de ventas
 
-![Genero del juego vs Total de ventas](ouput/genre_vs_total.png)
+![Genero del juego vs Total de ventas](https://github.com/MichaellAlavedraMunayco/MainframeFinal/blob/master/venta_juegos/output/genre_vs_total.png)
 
 #### Plataforma del juego vs Total de ventas
 
-![Plataforma del juego vs Total de ventas](ouput/platform_vs_total.png)
+![Plataforma del juego vs Total de ventas](https://github.com/MichaellAlavedraMunayco/MainframeFinal/blob/master/venta_juegos/output/platform_vs_total.png)
 
 #### Publicador del juego vs Total de ventas
 
-![Publicador del juego vs Total de ventas](ouput/publisher_vs_total.png)
+![Publicador del juego vs Total de ventas](https://github.com/MichaellAlavedraMunayco/MainframeFinal/blob/master/venta_juegos/output/publisher_vs_total.png)
